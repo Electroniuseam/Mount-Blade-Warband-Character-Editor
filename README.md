@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Mount-Blade-Warband-Character-Editor` · Updated: 2026-10-07
+`Mount-Blade-Warband-Character-Editor` · Updated: 2026-10-24
 
 **Tags:** `mount-and-blade-warband` `character-editor` `rpg` `sandbox` `steam`
